@@ -7,9 +7,6 @@
 <h4 align="center">i am Flutter Developer <a href="https://github.com/hamdysayah/hamdysayah/blob/main/hamdi_sayah_cv.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
-
-<br>
-
 -----
 <details>
   <summary>☎️ contact me</summary>
