@@ -9,7 +9,6 @@
 
 -----
 
-  <summary>☎️ contact me</summary>
   
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
