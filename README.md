@@ -8,9 +8,6 @@
 </div>
 
 -----
-
-  
-  
 </br>
   <h2 align="center">you can reach me by:</h2>
     <p align="center">
