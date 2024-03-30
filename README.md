@@ -10,7 +10,9 @@
 -----
 
   <summary>☎️ contact me</summary>
-<div>
+  
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
 
  <br/>
       <a href="https://www.linkedin.com/in/hamdy-sayah-657160284/" target="blank"><img align="center"
@@ -22,7 +24,7 @@
       <a href="mailto:hamdysayah@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
+   
 
-</div>
+
 
